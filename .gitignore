@@ -1,0 +1,17 @@
+.env
+ca.pem
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+
+# Build directories
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
